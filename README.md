@@ -1,4 +1,6 @@
-# Portafolio-Maching
+# Portafolio-Completo
+
+Este portafolio presenta todas las actividades realizadas durante el semestre, de los diferentes módulos, con le propósito del corroborar las sub competencias correspondientes.
 
 
 Este estudio se centra en la clasificación de señales de electrocardiogramas (ECG) mediante técnicas de modelados primitivos para
