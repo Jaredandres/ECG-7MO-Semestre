@@ -24,3 +24,6 @@ Los datos utilizados para entrenar y evaluar los modelos se han anonimizado para
 
 
 
+
+
+![WhatsApp Image 2024-09-14 at 11 25 47 PM](https://github.com/user-attachments/assets/fee06fcd-3e91-4b9b-95a5-57859feeba4b)
