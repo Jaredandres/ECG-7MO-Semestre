@@ -1,4 +1,4 @@
-# Portafolio-Completo
+# Portafolio Completo
 
 Este portafolio presenta todas las actividades realizadas durante el semestre, de los diferentes módulos, con le propósito del corroborar las sub competencias correspondientes.
 
